@@ -1,0 +1,26 @@
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore environment files
+env/
+.env
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore model and output files
+*.h5
+*.pkl
+*.joblib
+
+# Ignore data files
+*.csv
+*.xlsx
+
+# Ignore log files
+*.log

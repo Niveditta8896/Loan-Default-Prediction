@@ -15,7 +15,6 @@ env/
 
 # Ignore model and output files
 *.h5
-*.pkl
 *.joblib
 
 # Ignore data files
